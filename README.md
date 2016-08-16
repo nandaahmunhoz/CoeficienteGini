@@ -37,7 +37,9 @@ Será possível comparar, num determinado período e em determinada cidade, o qu
 <b>Exemplo de Consulta:</b>
 
 <li>Tela Consultar Base de Dados</li>
+<img src=""/>
 <li>Resultado da consulta</li>
+<img src=""/>
 
 
 
